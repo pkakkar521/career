@@ -26,7 +26,7 @@ const Signup =()=>{
             return false;
         }
         console.warn(name,password);
-    const result = await fetch ('https://pkakkar521.github.io/Dashboard1/register',{
+    const result = await fetch ('http://localhost:5000/register',{
       method:'post',
       body:JSON.stringify({name,password}),
       headers:{
