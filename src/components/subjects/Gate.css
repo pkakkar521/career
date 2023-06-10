@@ -1,0 +1,109 @@
+.tt {
+	margin-top: 150px;
+	margin-left: 100px;
+}
+.tt span{
+	font-weight: 700;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 60px;
+	color: #2E3D49;
+}
+.tt .shortdesc {
+	padding: 10px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	color: #2E3D49;
+	margin-bottom: 50px;
+}
+.course {
+	display: grid;
+	justify-content: center;
+}
+
+.box {
+	display: inline-flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.box .det {
+	height: 60px;
+	margin: 10px;
+	background: #fff;
+	cursor: pointer;
+	border-radius: 50px;
+}
+.box .det a{
+	justify-content: space-around;
+	width: 100%;
+	padding: 20px;
+	border-radius: 50px;
+	border: 1px solid #FA4B37;
+	font-size: 15px;
+	color: #272529;
+	font-family: cursive;
+	text-decoration: none;
+}
+
+.box .det a:hover{
+	background: linear-gradient(to right, #FA4B37, #DF2771);
+	color: white;
+}
+.inbt {
+	padding: 10px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 30px;
+	color: #2E3D49;
+	margin: 100px;
+	margin-bottom: 50px;
+}
+.ccard {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+}
+.ccardbox {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.dcard {
+	margin: 10px;
+	width: 300px;
+	height: 200px;
+	background: linear-gradient(to right, #FA4B37, #DF2771);
+	border-radius: 10px;
+	box-shadow: 0 0 20px rgba(0,0,0,0.4);
+}
+
+.dcard .fpart {
+	width: inherit;
+	height: 150px;
+	color: #000;
+	text-align: left;
+	overflow: hidden;
+}
+.dcard .fpart img {
+	width: 100%;
+	height: 100%;
+}
+
+.dcard .spart {
+	padding: 10px;
+	padding-right: 0px;
+	color: #fff;
+	text-align: left;
+	cursor: pointer;
+}
+.dcard .spart img {
+	width: 20px;
+	margin-left: 170px;
+	cursor: pointer;
+	/* transform: rotate(180deg); */
+}
+
+.dcard:hover .fpart img{
+	transition: .8s ease;
+	transform: scale(1.2);
+}

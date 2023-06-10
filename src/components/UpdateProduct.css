@@ -1,0 +1,29 @@
+.input{
+    padding:7px;
+    display:block;
+    border:1px solid black;
+    width:300px;
+    margin:20px;
+}
+.button{
+    margin:20px;
+    width:150px;
+    padding:10px;
+    background-color: aqua;
+    border: solid 1px;
+    cursor:pointer;
+    border-radius: 5px;;
+}
+.button:hover{
+    background-color: aquamarine;
+}
+
+.kk{
+    margin-left:40%;
+}
+.invalid{
+    color:red;
+    margin-top:-20px;
+    display:block;
+    margin-right:85%;
+}
