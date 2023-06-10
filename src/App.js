@@ -23,7 +23,7 @@ function App() {
        <Routes>
 
         <Route element={<PrivateComponent/>}>
-<Route path="/" element={<ProductList/>}/>
+<Route exact path="/career" element={<ProductList/>}/>
 <Route path="/add" element={<BarChart/>}/>
 <Route path="/update/:id" element={<UpdateProduct/>}/>
 <Route path="/update" element={<Updated/>}/>
