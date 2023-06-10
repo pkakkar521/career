@@ -22,13 +22,13 @@ const ProductList=()=>{
    },[])
 
  const getProducts=async()=>{
-    let result=await fetch('http://localhost:5000/product');
+    let result=await fetch('https://pkakkar521.github.io/Dashboard1/product');
     result=await result.json();
     setProducts(result);
  }
  console.log("products",products);
  const deleteproduct=async(id)=>{
-   let result= await fetch(`http://localhost:5000/product/${id}`,{
+   let result= await fetch(`https://pkakkar521.github.io/Dashboard1/product/${id}`,{
       method:"Delete"
    })
    result=await result.json();
@@ -54,7 +54,7 @@ const ProductList=()=>{
             return false;
         }
 		console.warn(firstname,lastname,email,country,expectedsalary,addetail);
-    const result = await fetch ('http://localhost:5000/reg',{
+    const result = await fetch ('https://pkakkar521.github.io/Dashboard1/reg',{
       method:'post',
       body:JSON.stringify({firstname,lastname,email,country,expectedsalary,addetail}),
       headers:{

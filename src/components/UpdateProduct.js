@@ -14,7 +14,7 @@ const UpdateProduct=()=>{
    },[])
    const getproductdetails=async()=>{
    console.warn(params);
-   let result=await fetch(`http://localhost:5000/product/${params.id}`);
+   let result=await fetch(`https://pkakkar521.github.io/Dashboard1/product/${params.id}`);
    let res=await result.json();
    setname(res.name);
    setprice(res.price);
@@ -22,7 +22,7 @@ const UpdateProduct=()=>{
    setcompany(res.company);
    }
     const addproduct =async()=>{
-      let result=await fetch(`http://localhost:5000/product/${params.id}`,{
+      let result=await fetch(`https://pkakkar521.github.io/Dashboard1/product/${params.id}`,{
         method:"Put",
         body:JSON.stringify({name,price,category,company}),
         headers:{
