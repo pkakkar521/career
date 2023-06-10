@@ -16,7 +16,7 @@ import Profile from './components/Profile';
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter basename='/career'>
       
      <Navbar/>
     
