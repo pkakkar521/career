@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/career/static/css/main.9d8d2b74.css",
+    "main.js": "/career/static/js/main.dec696c3.js",
+    "static/js/787.cda612ba.chunk.js": "/career/static/js/787.cda612ba.chunk.js",
+    "static/media/b1.jpg": "/career/static/media/b1.965f3e1d63568d4d632c.jpg",
+    "static/media/coaa.jpg": "/career/static/media/coaa.02b932032abc5eecd25f.jpg",
+    "static/media/data-algo.jpg": "/career/static/media/data-algo.29aff47cdb0ebef3c5e6.jpg",
+    "static/media/svg1.jpg": "/career/static/media/svg1.86446cdf5d19c58c21a6.jpg",
+    "static/media/digital.jpg": "/career/static/media/digital.37da1ff2d3eb68e2f651.jpg",
+    "static/media/b3.jpg": "/career/static/media/b3.fc1b9ece9348f3c14cd8.jpg",
+    "static/media/inorganic.jpg": "/career/static/media/inorganic.43d412c979658c6bab0f.jpg",
+    "static/media/physical.jpg": "/career/static/media/physical.e591cb4da97689b55786.jpg",
+    "static/media/e3.jpg": "/career/static/media/e3.2a6b54f1e6a6439656a0.jpg",
+    "static/media/math.jpg": "/career/static/media/math.de8b530bb878042c090e.jpg",
+    "static/media/q1.png": "/career/static/media/q1.5ffebd2f7832d688c7f2.png",
+    "static/media/os.jpg": "/career/static/media/os.7a22b7adeb1a1b197993.jpg",
+    "static/media/compiler.jpg": "/career/static/media/compiler.c29ce2d5a52a8cb36230.jpg",
+    "static/media/physics.jpg": "/career/static/media/physics.85588a57e9032317f322.jpg",
+    "static/media/online-tutorials.png": "/career/static/media/online-tutorials.54e9f7f8dccaaacbff5b.png",
+    "static/media/organic.jpg": "/career/static/media/organic.3e198f632db01c0addae.jpg",
+    "static/media/ripun.jpg": "/career/static/media/ripun.7ffd14340640d8e204e9.jpg",
+    "static/media/database.jpg": "/career/static/media/database.a281ea321654dfc9b0c0.jpg",
+    "static/media/help.png": "/career/static/media/help.d86fad727ec6cf21e833.png",
+    "static/media/discussion.png": "/career/static/media/discussion.892fc5669a79308da346.png",
+    "static/media/brainbooster.png": "/career/static/media/brainbooster.c121afffd5792c5bdb4d.png",
+    "static/media/p3.png": "/career/static/media/p3.cbc7000cea0184d37f46.png",
+    "static/media/computer-courses.png": "/career/static/media/computer-courses.b2eb3e0c27cfb91d9772.png",
+    "static/media/car.jpg": "/career/static/media/car.3f4a68692e582b446f2d.jpg",
+    "static/media/cn.jpg": "/career/static/media/cn.f18b3b21c0ba90792eae.jpg",
+    "static/media/logos.jpg": "/career/static/media/logos.688936668ede92f4903a.jpg",
+    "static/media/paper-download.png": "/career/static/media/paper-download.07bc4f5072d818eacc16.png",
+    "index.html": "/career/index.html",
+    "main.9d8d2b74.css.map": "/career/static/css/main.9d8d2b74.css.map",
+    "main.dec696c3.js.map": "/career/static/js/main.dec696c3.js.map",
+    "787.cda612ba.chunk.js.map": "/career/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d8d2b74.css",
+    "static/js/main.dec696c3.js"
+  ]
+}
