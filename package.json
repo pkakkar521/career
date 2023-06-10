@@ -1,7 +1,7 @@
-{"homepage":"http://pkakkar521.github.io/career",
+{"homepage":"https://pkakkar521.github.io/career",
   "name": "frontend",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
